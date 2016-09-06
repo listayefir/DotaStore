@@ -24,6 +24,8 @@ namespace DotaStore.Domain.Entities
 
         public decimal? Price { get; set; }
 
-        public virtual Badge Badges { get; set; }
+        [Required]
+        public string Cathegory { get; set; }
+
     }
 }

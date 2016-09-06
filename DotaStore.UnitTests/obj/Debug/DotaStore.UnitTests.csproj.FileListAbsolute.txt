@@ -3,3 +3,4 @@ d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.UnitTests\bin\Debug
 d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.UnitTests\obj\Debug\DotaStore.UnitTests.dll
 d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.UnitTests\obj\Debug\DotaStore.UnitTests.pdb
+d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.UnitTests\obj\Debug\DotaStore.UnitTests.csprojResolveAssemblyReference.cache

@@ -9,6 +9,5 @@ namespace DotaStore.Domain.Abstract
     interface IRepository
     {
         IEnumerable<Item> Items { get; }
-        IEnumerable<Badge> Badges { get; }
     }
 }
