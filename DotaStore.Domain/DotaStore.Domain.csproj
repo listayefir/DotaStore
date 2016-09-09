@@ -44,6 +44,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
+    <Reference Include="System.Web.Mvc, Version=3.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -53,13 +54,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\IRepository.cs" />
-    <Compile Include="Concrete\EFRepository.cs" />
     <Compile Include="Concrete\DotaShopContext.cs" />
-    <Compile Include="Concrete\ShopInitializer.cs" />
+    <Compile Include="Concrete\EFRepository.cs" />
     <Compile Include="Entities\Item.cs" />
+    <Compile Include="Migrations\201609071056076_InitialCreate.cs" />
+    <Compile Include="Migrations\201609071056076_InitialCreate.Designer.cs">
+      <DependentUpon>201609071056076_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609071342334_dbo.Price.cs" />
+    <Compile Include="Migrations\201609071342334_dbo.Price.Designer.cs">
+      <DependentUpon>201609071342334_dbo.Price.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201609071056076_InitialCreate.resx">
+      <DependentUpon>201609071056076_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609071342334_dbo.Price.resx">
+      <DependentUpon>201609071342334_dbo.Price.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

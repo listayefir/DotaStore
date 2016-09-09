@@ -22,7 +22,7 @@ namespace DotaStore.Domain.Entities
         [StringLength(200)]
         public string Description { get; set; }
 
-        public decimal? Price { get; set; }
+        public decimal Price { get; set; }
 
         [Required]
         public string Cathegory { get; set; }

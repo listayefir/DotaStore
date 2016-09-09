@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using DotaStore.Domain.Entities;
 namespace DotaStore.Domain.Abstract
 {
-    interface IRepository
+    public interface IRepository
     {
         IEnumerable<Item> Items { get; }
     }

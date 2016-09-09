@@ -7,3 +7,33 @@ d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.Domain\bin\Debug\En
 d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
 d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.dll
 d:\documents\visual studio 2015\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.pdb
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\DotaStore.Domain.dll.config
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\DotaStore.Domain.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\DotaStore.Domain.pdb
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\EntityFramework.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\EntityFramework.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.pdb
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.Mvc.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.Razor.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.WebPages.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.Mvc.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.Razor.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.WebPages.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\Microsoft.Web.Infrastructure.resources.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.Migrations.InitialCreate.resources
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.csproj.GenerateResource.Cache
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.Migrations.dboPrice.resources

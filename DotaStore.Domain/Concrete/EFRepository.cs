@@ -8,7 +8,7 @@ using DotaStore.Domain.Entities;
 
 namespace DotaStore.Domain.Concrete
 {
-    class EFRepository:IRepository
+    public class EFRepository:IRepository
     {
         private DotaShopContext context = new DotaShopContext();
 
