@@ -27,5 +27,10 @@ namespace DotaStore.Domain.Entities
         [Required]
         public string Cathegory { get; set; }
 
+
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }

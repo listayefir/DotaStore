@@ -37,3 +37,4 @@ M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\bin\Debug\ru\System.Web.WebPages
 M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.Migrations.InitialCreate.resources
 M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.csproj.GenerateResource.Cache
 M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.Migrations.dboPrice.resources
+M:\MyNewJob\Projects\DotaStore\DotaStore.Domain\obj\Debug\DotaStore.Domain.csprojResolveAssemblyReference.cache

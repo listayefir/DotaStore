@@ -56,6 +56,8 @@
     <Compile Include="Abstract\IRepository.cs" />
     <Compile Include="Concrete\DotaShopContext.cs" />
     <Compile Include="Concrete\EFRepository.cs" />
+    <Compile Include="Entities\Cart.cs" />
+    <Compile Include="Entities\CartLine.cs" />
     <Compile Include="Entities\Item.cs" />
     <Compile Include="Migrations\201609071056076_InitialCreate.cs" />
     <Compile Include="Migrations\201609071056076_InitialCreate.Designer.cs">

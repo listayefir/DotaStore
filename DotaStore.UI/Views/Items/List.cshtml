@@ -1,0 +1,15 @@
+﻿@model DotaStore.UI.Models.ItemsViewModel
+
+@{
+    ViewBag.Title = "Items";
+}
+
+@foreach (var i in Model.Items)
+{
+    @Html.Partial("ItemSummary", i)
+}
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { category = Model.CurrentCategory, page = x, }))
+</div>
+
+
